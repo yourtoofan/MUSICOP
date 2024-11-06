@@ -28,7 +28,7 @@
 
 
 
-<p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TEAMPURVI&show_icons=true&locale=en&layout=compact" alt="ʀᴀᴊᴀ ʙᴀʙᴜ" /></p>
+<p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourtoofan&show_icons=true&locale=en&layout=compact" alt="ʀᴀᴊᴀ ʙᴀʙᴜ" /></p>
 
 [![Contributors](https://contrib.rocks/image?repo=TEAMPURVI/SONALI_MUSIC)](https://github.com/TEAMPURVI/SONALI_MUSIC/graphs/contributors)
 
